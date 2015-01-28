@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//bug/items.py=utf-8
+encoding//bug/pipelines.py=utf-8
+encoding//bug/settings.py=utf-8
+encoding//bug/spiders/bug_spider.py=utf-8
+encoding/sqlAlchemy.py=utf-8
